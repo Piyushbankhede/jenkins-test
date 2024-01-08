@@ -1,2 +1,2 @@
 # jenkins-test 
-date
+cmd date
